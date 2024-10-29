@@ -46,3 +46,6 @@
 [submodule "retriever"]
 	path = retriever
 	url = git@github.com:Ella-42/Retriever42.git
+[submodule "inception"]
+	path = inception
+	url = git@github.com:Ella-42/inception.git
